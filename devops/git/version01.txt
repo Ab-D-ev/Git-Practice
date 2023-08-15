@@ -1,4 +1,2 @@
-This is for main branch
-This is the bug fix in development branch
+"This is the first feature of our application."
 
-THIS IS FOR DEVELOPMENT BRANCH
